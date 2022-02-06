@@ -60,7 +60,7 @@ sub _get_genotype {
 #       unless scalar(@gtkey) == scalar(@gtval);
 
   foreach(0..scalar(@gtkey)-1) {
-    $href->{$gtkey[$_]} = $gtval[$_];
+    $href->{$gtkey[$_]} = $gtval[$_] || 'NA';
   }
   return $href;
 }
