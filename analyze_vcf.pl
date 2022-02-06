@@ -123,3 +123,43 @@ sub print_data {
 
 __END__
 
+
+
+          'Scaffold15862' => {
+                               '233463' => {
+                                             'ref' => 'C',
+                                             'meend' => '3206',
+                                             'pos' => '233463',
+                                             'info' => {
+                                                         'SR' => '2',
+                                                         'SVTYPE' => 'RTE8BF6ALB220127',
+                                                         'RP' => '38',
+                                                         'LP' => '1',
+                                                         'SVLEN' => '1872',
+                                                         'MEINFO' => 'RTE8BF6ALB220127,1334,3206,-',
+                                                         'ASSESS' => '3',
+                                                         'PRIOR' => 'false',
+                                                         'TSD' => 'null',
+                                                         'DIFF' => '0.07:n1-1334,a1347g,a1390g,a1394g,t1431c,t1443g,g1459a,t1460g,c1471a,c1479t,a1515g,c1522t,c1532a,t1548c,t1563c,a1566t,g1569a,c1575t,t1605c,g1611t,a1612t,g1618a,c1625t,n1631-3206',
+                                                         'RA' => '-5.248',
+                                                         'INTERNAL' => 'Ocbimv22008358m.g,TERMINATOR'
+                                                       },
+                                             'mestrand' => '-',
+                                             'id' => '.',
+                                             'genotype' => {
+                                                             'DP' => '58',
+                                                             'GT' => '0/1',
+                                                             'GL' => '-280,-34.92,-360',
+                                                             'AD' => '28'
+                                                           },
+                                             'meid' => 'RTE8BF6ALB220127',
+                                             'filter' => 'lc',
+                                             'mestart' => '1334',
+                                             'chrom' => 'Scaffold15862',
+                                             'CLUSTER' => 54,
+                                             'qual' => '.',
+                                             'alt' => '<INS:ME:RTE8BF6ALB220127>'
+                                           }
+                             },
+
+
